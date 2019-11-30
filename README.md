@@ -1,7 +1,12 @@
-# Magisk Installer
+# Beckham APN Mods
 
-**Update `README.md` if you want to submit your module to the online repo!**
+**A module that can be used on stock or custom roms which have Magisk Manager installed**
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+### What does this module do?
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+It replaces the apns-conf.xml from `/system/etc` with the one in this module.
+
+### Why do I need this?
+
+Maybe you do, maybe you don't... The apns-conf.xml in this module is from beckham's PPWS29.183-29-2-3 firmware and 
+I've have edited it to remove the visibilty restrictions and allowed all apn's to be user editable. 
