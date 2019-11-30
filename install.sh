@@ -51,6 +51,7 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/etc/apns-conf.xml
 "
 
 ##########################################################################################
@@ -123,7 +124,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print " Beckham APN Mods "
   ui_print "*******************************"
 }
 

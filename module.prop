@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=beckham-apn-mods
+name=Beckham APN Mods
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=jleeblanch
+description=A simple module to help users on CDMA carriers to have working mobile data, calling, and sms/mms
